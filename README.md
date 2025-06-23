@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello, I'm Francis
 
-<!--
-**prince-francis-infosec/prince-francis-infosec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner hacker on a mission to become elite.
 
-Here are some ideas to get you started:
+## 🛠️ Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python 🐍
+- Web Hacking (PortSwigger, OWASP)
+- SQL Injection, XSS, and more
+
+## 📦 Projects
+
+- 🔍 Recon Script in Python
+- 🐞 My First Vulnerable Web App Clone
+- 🚀 Coming Soon: Custom Crypter & RAT
+
+## 🌐 Connect with Me
+
+- 💬 Telegram: `https://t.me/droctorspoof`
+
